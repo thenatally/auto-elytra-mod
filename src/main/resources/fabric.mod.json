@@ -2,10 +2,10 @@
 	"schemaVersion": 1,
 	"id": "tally-elytra-auto-equip",
 	"version": "${version}",
-	"name": "tally elytra auto equip",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "elytra auto equip",
+	"description": "Mod to save your ass",
 	"authors": [
-		"Me!"
+		"Tally"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -36,6 +36,5 @@
 		"fabric-api": "*"
 	},
 	"suggests": {
-		"another-mod": "*"
 	}
 }
